@@ -1,2 +1,3 @@
-# flask-service-template-lite
-No guff, just a basic app with some unittests, requirements, and a dockerfile. Ready for immediate deployment to cloud run.
+# bills-bigquery-slam
+Sometimes I want BigQuery to stop complaining and start slamming stuff into tables. youtube.com/watch?v=3mvDQwgmVGM
+

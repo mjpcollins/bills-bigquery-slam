@@ -1,1 +1,1 @@
-from tests.unittests.test_example import TestExample
+from tests.unittests.test_xl_splitter import TestXLSplitter
